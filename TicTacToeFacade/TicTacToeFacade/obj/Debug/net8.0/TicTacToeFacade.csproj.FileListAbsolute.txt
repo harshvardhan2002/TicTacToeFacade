@@ -1,0 +1,14 @@
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\bin\Debug\net8.0\TicTacToeFacade.exe
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\bin\Debug\net8.0\TicTacToeFacade.deps.json
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\bin\Debug\net8.0\TicTacToeFacade.runtimeconfig.json
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\bin\Debug\net8.0\TicTacToeFacade.dll
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\bin\Debug\net8.0\TicTacToeFacade.pdb
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\obj\Debug\net8.0\TicTacToeFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\obj\Debug\net8.0\TicTacToeFacade.AssemblyInfoInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\obj\Debug\net8.0\TicTacToeFacade.AssemblyInfo.cs
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\obj\Debug\net8.0\TicTacToeFacade.csproj.CoreCompileInputs.cache
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\obj\Debug\net8.0\TicTacToeFacade.dll
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\obj\Debug\net8.0\refint\TicTacToeFacade.dll
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\obj\Debug\net8.0\TicTacToeFacade.pdb
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\obj\Debug\net8.0\TicTacToeFacade.genruntimeconfig.cache
+C:\Users\Harshvardhan Gupta\source\repos\TicTacToeFacade\TicTacToeFacade\obj\Debug\net8.0\ref\TicTacToeFacade.dll
